@@ -1,0 +1,63 @@
+body {
+    padding: 15px;
+    background-color: white;
+    color: #2E3132;
+    font-size: 25px;
+    transition: background-color 1s;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+
+  }
+
+  .dark {
+    background-color: white;
+    color: whitesmoke;
+  }
+
+  .dark2 {
+    
+    background-color: #EEE0FD;
+    padding: 7px;
+    
+  }
+
+  .container-fluid{
+      border-bottom-left-radius: 30%;
+      border-bottom-right-radius: 30%;
+      animation-name: example;
+      animation-duration: 5s;
+      /* background-image: url(https://cdn2.vectorstock.com/i/1000x1000/76/26/neon-world-vector-197626.jpg);*/
+      background-image: url(https://c4.wallpaperflare.com/wallpaper/400/132/875/blue-world-map-hd-wallpaper-wallpaper-thumb.jpg);
+     
+      opacity: 0.5;
+      
+  }
+
+  /* @keyframes example {
+    0%   {background-color:#EEE0FD; left:10px; top:0px;}
+    25%  {background-color:#EEE0FD; left:200px; top:0px;}
+    50%  {background-color: #AC6AF7; left:200px; top:200px;}
+    75%  {background-color:rgb(104, 171, 216); left:0px; top:200px;}
+    
+  } */
+
+  .textField{
+      border-radius: 10px;
+      
+
+  }
+
+  html{
+    font-size: 62.5%;
+}
+
+
+
+.dark{
+    background-color: #202122;
+}
+
+.container2{
+  background-image: url();
+}
