@@ -25,7 +25,7 @@ heading.style.textDecoration = "none"
 heading.setAttribute("id", "heading");
 heading.innerText = "REST Countries";
 heading.style.borderRadius = "5px"
-heading.style.fontSize = "80px"
+heading.style.fontSize = "40px"
 heading.setAttribute("href", "https://restcountries.eu/")
 heading.setAttribute("class", "heading");
 
