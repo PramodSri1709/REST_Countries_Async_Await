@@ -106,7 +106,7 @@ function handleClick() {
             var data = await fetch("https://restcountries.eu/rest/v2/name/" + value);
             var resData = await data.json();
 
-            var weatherData = await fetch(`http://api.openweathermap.org/data/2.5/weather?q=${value}&units=metric&appid=095a554b7e21a25de9315a020ebb5f22`)
+            var weatherData = await fetch(`http://api.openweathermap.org/data/2.5/weather?q=${value}&units=metric&appid=YourKeyPlease`)
 
             //095a554b7e21a25de9315a020ebb5f22
 
